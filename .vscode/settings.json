@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "PhysioDB",
+            "database": "PhysioDynamikDb",
+            "username": "off",
+            "password": "123123",
+            "connectionTimeout": 30
+        }
+    ]
+}
